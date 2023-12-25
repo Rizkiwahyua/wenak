@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';  //kotak
+import 'package:flutter/material.dart';  //kotak pesan
 import 'package:wenak/common/color_extension.dart';
 
 import 'my_order_view.dart';
