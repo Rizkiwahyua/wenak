@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:wenak/common/color_extension.dart';
 import 'package:wenak/common_widget/tab_button.dart';
+import 'package:wenak/view/menu/profile_view.dart';
 
 import '../home/home_view.dart';
 import '../menu/menu_view.dart';
