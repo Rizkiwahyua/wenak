@@ -1,6 +1,0 @@
-fitur halaman home :
--terdapat fitur pencarian : pelanggan dapat mencari makanan atau minuman yang di inginkan.
--terdapat menu kategori : yang memudahkan pelanggan 
--terdapat keranjang belanja 
--terdapat fitur transaksi : pelanggan dapat melihat hasail transaksi dengan detail
--terdapat fitur botton : dimana fitur ini terdapat button home,setting, dan add. User dapat mengklik botton add untuk menambah pesanan
