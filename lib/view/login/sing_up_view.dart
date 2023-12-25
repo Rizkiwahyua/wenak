@@ -1,10 +1,10 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:food_delivery/common/color_extension.dart';
-import 'package:food_delivery/common/extension.dart';
-import 'package:food_delivery/common_widget/round_button.dart';
-import 'package:food_delivery/view/login/login_view.dart';
+import 'package:wenak/common/color_extension.dart';
+import 'package:wenak/common/extension.dart';
+import 'package:wenak/common_widget/round_button.dart';
+import 'package:wenak/view/login/login_view.dart';
 
 import '../../common/globs.dart';
 import '../../common/service_call.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/common/color_extension.dart';
-import 'package:food_delivery/common/extension.dart';
-import 'package:food_delivery/common_widget/round_button.dart';
-import 'package:food_delivery/view/login/new_password_view.dart';
+import 'package:wenak/common/color_extension.dart';
+import 'package:wenak/common/extension.dart';
+import 'package:wenak/common_widget/round_button.dart';
+import 'package:wenak/view/login/new_password_view.dart';
 import 'package:otp_pin_field/otp_pin_field.dart';
 
 import '../../common/globs.dart';

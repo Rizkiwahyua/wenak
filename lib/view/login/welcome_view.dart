@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/view/login/login_view.dart';
-import 'package:food_delivery/view/login/sing_up_view.dart';
+import 'package:wenak/view/login/login_view.dart';
+import 'package:wenak/view/login/sing_up_view.dart';
 
 import '../../common/color_extension.dart';
 import '../../common_widget/round_button.dart';

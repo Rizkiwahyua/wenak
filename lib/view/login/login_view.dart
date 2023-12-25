@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/common/color_extension.dart';
-import 'package:food_delivery/common/extension.dart';
-import 'package:food_delivery/common/globs.dart';
-import 'package:food_delivery/common_widget/round_button.dart';
-import 'package:food_delivery/view/login/rest_password_view.dart';
-import 'package:food_delivery/view/login/sing_up_view.dart';
-import 'package:food_delivery/view/on_boarding/on_boarding_view.dart';
+import 'package:wenak/common/color_extension.dart';
+import 'package:wenak/common/extension.dart';
+import 'package:wenak/common/globs.dart';
+import 'package:wenak/common_widget/round_button.dart';
+import 'package:wenak/view/login/rest_password_view.dart';
+import 'package:wenak/view/login/sing_up_view.dart';
+import 'package:wenak/view/on_boarding/on_boarding_view.dart';
 
 import '../../common/service_call.dart';
 import '../../common_widget/round_icon_button.dart';

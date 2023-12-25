@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/common/color_extension.dart';
-import 'package:food_delivery/common_widget/round_textfield.dart';
+import 'package:wenak/common/color_extension.dart';
+import 'package:wenak/common_widget/round_textfield.dart';
 
 import '../../common/globs.dart';
 import '../../common/service_call.dart';
