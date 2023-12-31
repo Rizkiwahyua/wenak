@@ -78,22 +78,22 @@ class _MyAppState extends State<MyApp> {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         // useMaterial3: true,
       ),
-      home: OnBoardingView(),
-      // navigatorKey: locator<NavigationService>().navigatorKey,
-      // onGenerateRoute: (routeSettings){
-      //   switch (routeSettings.name) {
-      //     case "welcome":
-      //         return MaterialPageRoute(builder: (context) => const WelcomeView() );
-      //     case "Home":
-      //         return MaterialPageRoute(builder: (context) => const MainTabView() );
-      //     default:
-      //         return MaterialPageRoute(builder: (context) => Scaffold(
-      //           body: Center(
-      //             child: Text("No path for ${routeSettings.name}")
-      //           ),
-      //         ) );
-      //   }
-      // },
+      home: const StartupView(),
+      navigatorKey: locator<NavigationService>().navigatorKey,
+      onGenerateRoute: (routeSettings){
+        switch (routeSettings.name) {
+          case "welcome":
+              return MaterialPageRoute(builder: (context) => const WelcomeView() );
+          case "Home":
+              return MaterialPageRoute(builder: (context) => const MainTabView() );
+          default:
+              return MaterialPageRoute(builder: (context) => Scaffold(
+                body: Center(
+                  child: Text("No path for ${routeSettings.name}")
+                ),
+              ) );
+        }
+      },
       builder: (context, child) {
         return FlutterEasyLoading(child: child);
       },
