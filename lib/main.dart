@@ -1,4 +1,5 @@
 import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:wenak/common/color_extension.dart';
@@ -9,7 +10,6 @@ import 'package:wenak/view/main_tabview/main_tabview.dart';
 import 'package:wenak/view/on_boarding/on_boarding_view.dart';
 import 'package:wenak/view/on_boarding/startup_view.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:wenak/common/locator.dart';
 
 import 'common/globs.dart';
 import 'common/my_http_overrides.dart';
