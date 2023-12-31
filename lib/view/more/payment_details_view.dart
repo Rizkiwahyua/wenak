@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';  //pembayaran
 import 'package:wenak/common/color_extension.dart';
 import 'package:wenak/common_widget/round_icon_button.dart';
 import 'package:wenak/view/more/add_card_view.dart';

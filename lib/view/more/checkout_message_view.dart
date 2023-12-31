@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'; //halaman pesan
 import 'package:wenak/common_widget/round_button.dart';
 
 import '../../common/color_extension.dart';
